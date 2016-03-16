@@ -10,7 +10,7 @@ test.add <- function()
 #Subtract Test Function
 test.subtract <- function()
 {
-  checkEquals(5,subtract(10,5))
+  checkEquals(5,subtract(10,5)) 
 }
 
 #Multiply Test Function
@@ -22,6 +22,6 @@ test.multiply <- function()
 #Divide Test Function
 test.divide <- function()
 {
-  checkEquals(3,divide(30,10))
+  checkEquals(3,divide(30,10)) 
 }
 
