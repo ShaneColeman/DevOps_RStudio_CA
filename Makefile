@@ -1,2 +1,2 @@
 Calculator:
-	Rscript RunTests.R
+	Rscript Calculator.R CalculatorTests.R RunTests.R
