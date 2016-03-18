@@ -1,5 +1,2 @@
-clean:
-	Rscript Calculator.R CalculatorTests.R RunTests.R
-
-build:
+test:
 	Rscript Calculator.R CalculatorTests.R RunTests.R
