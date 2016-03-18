@@ -1,2 +1,2 @@
-RunTests:
+Calculator:
 	Rscript RunTests.R
