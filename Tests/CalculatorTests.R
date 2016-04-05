@@ -4,7 +4,7 @@
 #Add Test Function
 test.add <- function()
 {
-  checkEquals(5,add(2,2))
+  checkEquals(4,add(2,2))
 }
 
 #Subtract Test Function
